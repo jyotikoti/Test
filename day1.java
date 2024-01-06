@@ -10,7 +10,7 @@ public class day1 {
 	
 	public static void main(String[] args) {	
 		 
-		//1. Count no. of String in given Program
+		1. Count no. of String in given Program
 		
 	
 		/*String str = "hello everyone this is my practice program everyone practice hello";
